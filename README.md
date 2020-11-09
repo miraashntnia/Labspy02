@@ -9,6 +9,7 @@
 
 
 **Langkah Langkah**
+
 **1. Buka aplikasi pycharm dan buatlah python file**
 
 <img width="250" alt="new file" src="https://user-images.githubusercontent.com/72985112/98494081-a088d100-226e-11eb-8ea1-580b724e3c70.png">
