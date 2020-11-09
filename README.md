@@ -1,14 +1,15 @@
 # BAHASA PEMROGRAMAN PYTHON
-**Program menentukan bilangan terbesar dari tiga buah bilangan yang diinputkan**
+
+### **Program menentukan bilangan terbesar dari tiga buah bilangan yang diinputkan**
 
 - Repository ini berisikan materi pembuatan program sederhana, yaitu mengenai cara untuk menentukan nilai terbesar dari tiga buah bilangan yang diinputkan dengan menggunakan statement if.
 
-**flowchart**
+### **flowchart**
 
 ![FLOWCHART-1](https://user-images.githubusercontent.com/72985112/98499348-db453600-227b-11eb-8edb-d00874997eef.jpg)
 
 
-**Langkah Langkah**
+### **Langkah Langkah**
 
 **1. Buka aplikasi pycharm dan buatlah python file**
 
