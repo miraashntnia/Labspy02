@@ -4,7 +4,7 @@
 
 - Repository ini berisikan materi pembuatan program sederhana, yaitu mengenai cara untuk menentukan nilai terbesar dari tiga buah bilangan yang diinputkan dengan menggunakan statement if.
 
-### **flowchart**
+### **Flowchart**
 
 ![FLOWCHART-1](https://user-images.githubusercontent.com/72985112/98499348-db453600-227b-11eb-8edb-d00874997eef.jpg)
 
